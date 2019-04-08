@@ -1,0 +1,62 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+d3d11: D3D_FEATURE_LEVEL_11_1 not-recognized (only 11.0 runtime installed?)
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 7700 Series (ID=0x6837)
+    Vendor:   ATI
+    VRAM:     998 MB
+    Driver:   14.100.0.0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\superuser\Documents\New Unity Project 1\Game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\superuser\Documents\New Unity Project 1\Game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\superuser\Documents\New Unity Project 1\Game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\superuser\Documents\New Unity Project 1\Game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\superuser\Documents\New Unity Project 1\Game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\superuser\Documents\New Unity Project 1\Game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\superuser\Documents\New Unity Project 1\Game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\superuser\Documents\New Unity Project 1\Game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\superuser\Documents\New Unity Project 1\Game_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\superuser\Documents\New Unity Project 1\Game_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\superuser\Documents\New Unity Project 1\Game_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\superuser\Documents\New Unity Project 1\Game_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.016 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.215526 ms
+Button_Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.103690 ms
+
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 652.
+Total: 0.453262 ms (FindLiveObjects: 0.041561 ms CreateObjectMapping: 0.040658 ms MarkObjects: 0.341528 ms  DeleteObjects: 0.029213 ms)
+
+Player crashed, HP -50
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player crashed, HP -10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player crashed, HP -10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player crashed, HP -10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player crashed, HP -50
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 1390 -> priority: 1 
+  Thread -> id: 944 -> priority: 1 
+  Thread -> id: ea8 -> priority: 1 
+  Thread -> id: 17b4 -> priority: 1 
