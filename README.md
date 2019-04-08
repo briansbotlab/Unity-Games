@@ -12,4 +12,4 @@ New Unity Project 1是我第一份Unity的遊戲創作，它是一項我規畫�
 
 接下來是有關New Unity Project 1的基本介紹。
 
-![1](/Images/1.PNG)
+![1](/New Unity Project 1/Images/1.PNG)
