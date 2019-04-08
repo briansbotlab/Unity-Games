@@ -6,7 +6,7 @@ Unity Games裡面是存放我做的 Unity的小遊戲，使用Unity官方提供�
 
 New Unity Project 1是我第一份Unity的遊戲創作，它是一項我規畫的10天挑戰的產物。
 
-<a href="http://example.com">10天挑戰的紀錄</a>
+<a href="https://www.youtube.com/playlist?list=PLnnyt-OFoEgmnwz9CzjJzeb5JOht3kvHQ">10天挑戰的紀錄</a>
 
 
 
